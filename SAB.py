@@ -126,7 +126,7 @@ youtuber = SABIR_youtube
 
 def youtube():
 
-	Style_profaisor("  please Follow My Page author :) Thank you")	os.system("xdg-open https://www.facebook.com/Sidiq.455.1")
+	Style_profaisor("  please Follow My Page author :) Thank you")	os.system("xdg-open https://www.facebook.com/Sidiqullah.455.1")
 
 	menu()
 
